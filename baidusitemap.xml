@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.diviner.site/2020/01/12/ji-chu-pian/reactjs/01-react-sheng-ming-zhou-qi-jie-shao/</loc>
+    <lastmod>2020-06-19</lastmod>
+  </url>  <url>
     <loc>http://www.diviner.site/2020/01/11/gong-ju-pian/02-deepin-xi-tong-an-zhuang-hou-xiang-guan-she-zhi-yu-huan-jing-da-jian/</loc>
     <lastmod>2020-06-19</lastmod>
   </url>  <url>
@@ -14,9 +17,6 @@
     <lastmod>2020-06-19</lastmod>
   </url>  <url>
     <loc>http://www.diviner.site/2020/02/20/ji-chu-pian/nodejs/01.express-zhi-nan/</loc>
-    <lastmod>2020-06-19</lastmod>
-  </url>  <url>
-    <loc>http://www.diviner.site/2020/01/12/ji-chu-pian/reactjs/01-react-sheng-ming-zhou-qi-jie-shao/</loc>
     <lastmod>2020-06-19</lastmod>
   </url>  <url>
     <loc>http://www.diviner.site/2020/01/13/ji-chu-pian/reactnative/01-reactnative-kai-fa-huan-jing-da-jian-ji-di-yi-ge-cheng-xu-yun-xing/</loc>
