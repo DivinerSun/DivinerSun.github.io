@@ -1235,14 +1235,28 @@ import React from &#34;rea">
             
             
             
-            <div class="reprint1">
+            <div class="card reprint1">
+            	<span class="reprint1-tip">
+                    <i class="fa fa-exclamation-circle"></i>&nbsp;&nbsp;转载请注明:
+                </span>
                 <p>
-                    <span class="reprint1-tip">
-                        <i class="fa fa-exclamation-circle"></i>&nbsp;&nbsp;转载请注明:
-                    </span>
-                    <a href="http://www.diviner.site" class="b-link-green">Divinerの博客</a>
-                    <i class="fa fa-angle-right fa-lg fa-fw text-color"></i>
-                    <a href="/archives/1c199372.html" class="b-link-green">React[16.6]生命周期介绍</a>
+                	<i class="fa fa-user text-color">
+                		 文章作者:
+                	</i>
+                    <a href="http://www.diviner.site" class="b-link-green">Diviner</a>
+                    <br />
+                    <i class="fa fa-link text-color">
+                		文章链接:
+                	</i>
+                    <a href="/archives/1c199372.html" class="b-link-green">http://www.diviner.site/archives/1c199372.html</a>
+                    <br />
+                    <i class="fa fa-copyright text-color">
+                		版权声明:
+                	</i>
+                	本博客所有文章除特别声明外，均采用
+                    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" class="b-link-green">CC BY-NC-SA 4.0</a>
+                    许可协议。转载请注明来自
+                    <a href="http://www.diviner.site" class="b-link-green">Divinerの博客</a> !
                 </p>
             </div>
 
@@ -1714,22 +1728,33 @@ $(function () {
 		 <!-- 天气接口  -->
 <!-- Diviner个人博客 -->
 <script type="text/javascript">
-WIDGET = {FID: 'c2HnnPBHQv'}
+    WIDGET = { FID: "c2HnnPBHQv" };
 </script>
-<script type="text/javascript" src="https://apip.weatherdt.com/float/static/js/r.js?v=1111"></script>
-
-<!-- 
 <script type="text/javascript">
     //只在桌面版网页启用特效
     var windowWidth = $(window).width();
     if (windowWidth > 768) {
-        document.write(
-            '<script type="text/javascript" src="https://apip.weatherdt.com/float/static/js/r.js?v=1111"><\/script>'
-        );
+        (function (d) {
+            var a = d.getElementById("weather-float-he");
+            if (a) {
+                a.parentNode.removeChild(a);
+            }
+            a = d.createElement("div");
+            a.id = "weather-float-he";
+            var b = d.getElementsByTagName("body")[0];
+            b.appendChild(a);
+            var c = d.createElement("link");
+            c.rel = "stylesheet";
+            c.href = "/css/tqw_widget_float.css";
+            var s = d.createElement("script");
+            s.src =
+                "https://apip.weatherdt.com/float/static/js/tqw_widget_float.js?v=0101";
+            var sn = d.getElementsByTagName("script")[0];
+            sn.parentNode.insertBefore(c, sn);
+            sn.parentNode.insertBefore(s, sn);
+        })(document);
     }
 </script>
--->
-
  
 
         <!-- 洪卫 shw2018 add 2019.08.28 -->

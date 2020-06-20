@@ -26,6 +26,16 @@
         max-width: 1250px;
     }
 }
+/* 鼠标样式 */
+* {
+    cursor: url("/heart.cur"), auto !important;
+}
+:link {
+    cursor: url("/fire.cur"), auto !important;
+}
+:active {
+    cursor: url("/good.cur"), auto !important;
+}
 
 body {
     background-color: #eaeaea;
@@ -1050,6 +1060,7 @@ article .article-tags .chip {
 /*下面连着三段是老版reprint样式*/
 #artDetail .reprint1 {
     margin: 15px 0 5px 0;
+    padding: 10px;
 }
 
 #artDetail .reprint1 .reprint1-tip {
@@ -1058,10 +1069,19 @@ article .article-tags .chip {
     font-weight: 500;
 }
 
+#artDetail .reprint1 p {
+    padding: 15px;
+    line-height: 2rem;
+}
+
 #artDetail .reprint1 a {
     font-size: 1.05rem;
+    color: #99a9bf;
+    font-weight: bolder;
+}
+
+#artDetail .reprint1 a:hover {
     color: #42b983;
-    font-weight: 500;
 }
 
 /*下面连着三段是reprint-statement样式*/
