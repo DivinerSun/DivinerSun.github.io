@@ -1567,11 +1567,14 @@ Functions:  make  len  cap  new  append  copy  close  delete
         notify: "true" === "true",
         verify: "true" === "true",
         visitor: "true" === "true",
+        recordIP: true,
+        enableQQ: true,
+        requiredFields: ["nick", "mail"], //设置必填项
         avatar: "wavatar",
         pageSize: "10",
         lang:
             'zh-cn',
-        placeholder: "请留下你的足迹",
+        placeholder: "在昵称中留下QQ号（系统自动获取QQ昵称、QQ邮箱、QQ头像等信息",
     });
 
     //     function parse_emoji() {
