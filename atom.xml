@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.diviner.site/"/>
-  <updated>2020-06-20T10:01:42.534Z</updated>
+  <updated>2020-07-10T02:12:47.723Z</updated>
   <id>http://www.diviner.site/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Electron + React 开发一款属于自己的 Markdown 笔记管理应用</title>
+    <link href="http://www.diviner.site/archives/4604c28e.html"/>
+    <id>http://www.diviner.site/archives/4604c28e.html</id>
+    <published>2020-07-10T01:59:10.000Z</published>
+    <updated>2020-07-10T02:12:47.723Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Electron-React-开发一款属于自己的-Markdown-笔记管理应用&quot;&gt;&lt;a href=&quot;#Electron-React-开发一款属于自己的-Markdown-笔记管理应用&quot; class=&quot;headerlink&quot; title=&quot;Electron +
+        
+      
+    
+    </summary>
+    
+      <category term="实战篇" scheme="http://www.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/"/>
+    
+      <category term="Electron" scheme="http://www.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/Electron/"/>
+    
+      <category term="React" scheme="http://www.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/Electron/React/"/>
+    
+    
+      <category term="React" scheme="http://www.diviner.site/tags/React/"/>
+    
+      <category term="Electron" scheme="http://www.diviner.site/tags/Electron/"/>
+    
+      <category term="Markdown编辑器" scheme="http://www.diviner.site/tags/Markdown%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo和Gitee搭建个人博客网站</title>
@@ -75,7 +109,7 @@
     <link href="http://www.diviner.site/archives/b9cc6606.html"/>
     <id>http://www.diviner.site/archives/b9cc6606.html</id>
     <published>2020-03-08T14:08:20.000Z</published>
-    <updated>2020-06-19T13:05:46.168Z</updated>
+    <updated>2020-07-08T12:37:30.016Z</updated>
     
     <summary type="html">
     
