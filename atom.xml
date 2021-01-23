@@ -5,9 +5,9 @@
   <subtitle>Divinerの博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.diviner.site/"/>
+  <link href="http://www.diviner.site/"/>
   <updated>2020-07-10T03:09:50.728Z</updated>
-  <id>http://blog.diviner.site/</id>
+  <id>http://www.diviner.site/</id>
   
   <author>
     <name>Diviner</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Electron + React 开发一款属于自己的 Markdown 笔记管理应用</title>
-    <link href="http://blog.diviner.site/archives/4604c28e.html"/>
-    <id>http://blog.diviner.site/archives/4604c28e.html</id>
+    <link href="http://www.diviner.site/archives/4604c28e.html"/>
+    <id>http://www.diviner.site/archives/4604c28e.html</id>
     <published>2020-07-10T01:59:10.000Z</published>
     <updated>2020-07-10T03:09:50.728Z</updated>
     
@@ -35,25 +35,25 @@
     
     </summary>
     
-      <category term="实战篇" scheme="http://blog.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/"/>
+      <category term="实战篇" scheme="http://www.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/"/>
     
-      <category term="Electron" scheme="http://blog.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/Electron/"/>
+      <category term="Electron" scheme="http://www.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/Electron/"/>
     
-      <category term="React" scheme="http://blog.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/Electron/React/"/>
+      <category term="React" scheme="http://www.diviner.site/categories/%E5%AE%9E%E6%88%98%E7%AF%87/Electron/React/"/>
     
     
-      <category term="React" scheme="http://blog.diviner.site/tags/React/"/>
+      <category term="React" scheme="http://www.diviner.site/tags/React/"/>
     
-      <category term="Electron" scheme="http://blog.diviner.site/tags/Electron/"/>
+      <category term="Electron" scheme="http://www.diviner.site/tags/Electron/"/>
     
-      <category term="Markdown编辑器" scheme="http://blog.diviner.site/tags/Markdown%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+      <category term="Markdown编辑器" scheme="http://www.diviner.site/tags/Markdown%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>Hexo和Gitee搭建个人博客网站</title>
-    <link href="http://blog.diviner.site/archives/b37292ba.html"/>
-    <id>http://blog.diviner.site/archives/b37292ba.html</id>
+    <link href="http://www.diviner.site/archives/b37292ba.html"/>
+    <id>http://www.diviner.site/archives/b37292ba.html</id>
     <published>2020-06-20T09:40:17.000Z</published>
     <updated>2020-06-20T10:01:42.534Z</updated>
     
@@ -69,21 +69,21 @@
     
     </summary>
     
-      <category term="工具篇" scheme="http://blog.diviner.site/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
+      <category term="工具篇" scheme="http://www.diviner.site/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
     
-      <category term="Hexo" scheme="http://blog.diviner.site/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/Hexo/"/>
+      <category term="Hexo" scheme="http://www.diviner.site/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://blog.diviner.site/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.diviner.site/tags/Hexo/"/>
     
-      <category term="个人博客" scheme="http://blog.diviner.site/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="个人博客" scheme="http://www.diviner.site/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>前端面试题整理之CSS篇</title>
-    <link href="http://blog.diviner.site/archives/b12d3374.html"/>
-    <id>http://blog.diviner.site/archives/b12d3374.html</id>
+    <link href="http://www.diviner.site/archives/b12d3374.html"/>
+    <id>http://www.diviner.site/archives/b12d3374.html</id>
     <published>2020-03-12T14:08:20.000Z</published>
     <updated>2020-06-19T13:05:46.166Z</updated>
     
@@ -93,21 +93,21 @@
     
     </summary>
     
-      <category term="CSS面试题" scheme="http://blog.diviner.site/categories/CSS%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+      <category term="CSS面试题" scheme="http://www.diviner.site/categories/CSS%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
-      <category term="面试篇" scheme="http://blog.diviner.site/categories/CSS%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E7%AF%87/"/>
+      <category term="面试篇" scheme="http://www.diviner.site/categories/CSS%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%9D%A2%E8%AF%95%E7%AF%87/"/>
     
     
-      <category term="前端面试题" scheme="http://blog.diviner.site/tags/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+      <category term="前端面试题" scheme="http://www.diviner.site/tags/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
-      <category term="CSS面试题" scheme="http://blog.diviner.site/tags/CSS%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+      <category term="CSS面试题" scheme="http://www.diviner.site/tags/CSS%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>Koa2快速入门上手</title>
-    <link href="http://blog.diviner.site/archives/b9cc6606.html"/>
-    <id>http://blog.diviner.site/archives/b9cc6606.html</id>
+    <link href="http://www.diviner.site/archives/b9cc6606.html"/>
+    <id>http://www.diviner.site/archives/b9cc6606.html</id>
     <published>2020-03-08T14:08:20.000Z</published>
     <updated>2020-07-08T12:37:30.016Z</updated>
     
@@ -119,27 +119,27 @@
     
     </summary>
     
-      <category term="NodeJS" scheme="http://blog.diviner.site/categories/NodeJS/"/>
+      <category term="NodeJS" scheme="http://www.diviner.site/categories/NodeJS/"/>
     
-      <category term="Koa2" scheme="http://blog.diviner.site/categories/NodeJS/Koa2/"/>
+      <category term="Koa2" scheme="http://www.diviner.site/categories/NodeJS/Koa2/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/NodeJS/Koa2/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/NodeJS/Koa2/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
     
-      <category term="NodeJS" scheme="http://blog.diviner.site/tags/NodeJS/"/>
+      <category term="NodeJS" scheme="http://www.diviner.site/tags/NodeJS/"/>
     
-      <category term="Koa" scheme="http://blog.diviner.site/tags/Koa/"/>
+      <category term="Koa" scheme="http://www.diviner.site/tags/Koa/"/>
     
-      <category term="Koa2" scheme="http://blog.diviner.site/tags/Koa2/"/>
+      <category term="Koa2" scheme="http://www.diviner.site/tags/Koa2/"/>
     
-      <category term="Koa教程" scheme="http://blog.diviner.site/tags/Koa%E6%95%99%E7%A8%8B/"/>
+      <category term="Koa教程" scheme="http://www.diviner.site/tags/Koa%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Express入门指南</title>
-    <link href="http://blog.diviner.site/archives/7ec755c9.html"/>
-    <id>http://blog.diviner.site/archives/7ec755c9.html</id>
+    <link href="http://www.diviner.site/archives/7ec755c9.html"/>
+    <id>http://www.diviner.site/archives/7ec755c9.html</id>
     <published>2020-02-19T17:05:20.000Z</published>
     <updated>2020-06-19T13:05:46.169Z</updated>
     
@@ -156,23 +156,23 @@
     
     </summary>
     
-      <category term="NodeJS" scheme="http://blog.diviner.site/categories/NodeJS/"/>
+      <category term="NodeJS" scheme="http://www.diviner.site/categories/NodeJS/"/>
     
-      <category term="Express" scheme="http://blog.diviner.site/categories/NodeJS/Express/"/>
+      <category term="Express" scheme="http://www.diviner.site/categories/NodeJS/Express/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/NodeJS/Express/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/NodeJS/Express/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
     
-      <category term="NodeJS" scheme="http://blog.diviner.site/tags/NodeJS/"/>
+      <category term="NodeJS" scheme="http://www.diviner.site/tags/NodeJS/"/>
     
-      <category term="Express" scheme="http://blog.diviner.site/tags/Express/"/>
+      <category term="Express" scheme="http://www.diviner.site/tags/Express/"/>
     
   </entry>
   
   <entry>
     <title>Express简单介绍和快速上手</title>
-    <link href="http://blog.diviner.site/archives/a060a849.html"/>
-    <id>http://blog.diviner.site/archives/a060a849.html</id>
+    <link href="http://www.diviner.site/archives/a060a849.html"/>
+    <id>http://www.diviner.site/archives/a060a849.html</id>
     <published>2020-02-18T14:08:20.000Z</published>
     <updated>2020-06-19T13:05:46.167Z</updated>
     
@@ -184,23 +184,23 @@
     
     </summary>
     
-      <category term="NodeJS" scheme="http://blog.diviner.site/categories/NodeJS/"/>
+      <category term="NodeJS" scheme="http://www.diviner.site/categories/NodeJS/"/>
     
-      <category term="Express" scheme="http://blog.diviner.site/categories/NodeJS/Express/"/>
+      <category term="Express" scheme="http://www.diviner.site/categories/NodeJS/Express/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/NodeJS/Express/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/NodeJS/Express/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
     
-      <category term="NodeJS" scheme="http://blog.diviner.site/tags/NodeJS/"/>
+      <category term="NodeJS" scheme="http://www.diviner.site/tags/NodeJS/"/>
     
-      <category term="Express" scheme="http://blog.diviner.site/tags/Express/"/>
+      <category term="Express" scheme="http://www.diviner.site/tags/Express/"/>
     
   </entry>
   
   <entry>
     <title>Go语言基础之变量与常量</title>
-    <link href="http://blog.diviner.site/archives/eee25dce.html"/>
-    <id>http://blog.diviner.site/archives/eee25dce.html</id>
+    <link href="http://www.diviner.site/archives/eee25dce.html"/>
+    <id>http://www.diviner.site/archives/eee25dce.html</id>
     <published>2020-01-28T14:30:20.000Z</published>
     <updated>2020-06-19T13:05:46.167Z</updated>
     
@@ -214,23 +214,23 @@
     
     </summary>
     
-      <category term="Go" scheme="http://blog.diviner.site/categories/Go/"/>
+      <category term="Go" scheme="http://www.diviner.site/categories/Go/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/Go/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/Go/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
-      <category term="我们一起搞个Go" scheme="http://blog.diviner.site/categories/Go/%E5%9F%BA%E7%A1%80%E7%AF%87/%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%90%9E%E4%B8%AAGo/"/>
+      <category term="我们一起搞个Go" scheme="http://www.diviner.site/categories/Go/%E5%9F%BA%E7%A1%80%E7%AF%87/%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%90%9E%E4%B8%AAGo/"/>
     
     
-      <category term="Go" scheme="http://blog.diviner.site/tags/Go/"/>
+      <category term="Go" scheme="http://www.diviner.site/tags/Go/"/>
     
-      <category term="Go语言基础" scheme="http://blog.diviner.site/tags/Go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+      <category term="Go语言基础" scheme="http://www.diviner.site/tags/Go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>Mac下go语言开发环境搭建</title>
-    <link href="http://blog.diviner.site/archives/47cb0e25.html"/>
-    <id>http://blog.diviner.site/archives/47cb0e25.html</id>
+    <link href="http://www.diviner.site/archives/47cb0e25.html"/>
+    <id>http://www.diviner.site/archives/47cb0e25.html</id>
     <published>2020-01-20T04:08:20.000Z</published>
     <updated>2020-06-19T13:05:46.174Z</updated>
     
@@ -244,25 +244,25 @@
     
     </summary>
     
-      <category term="Go" scheme="http://blog.diviner.site/categories/Go/"/>
+      <category term="Go" scheme="http://www.diviner.site/categories/Go/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/Go/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/Go/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
-      <category term="我们一起写个Go" scheme="http://blog.diviner.site/categories/Go/%E5%9F%BA%E7%A1%80%E7%AF%87/%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%86%99%E4%B8%AAGo/"/>
+      <category term="我们一起写个Go" scheme="http://www.diviner.site/categories/Go/%E5%9F%BA%E7%A1%80%E7%AF%87/%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%86%99%E4%B8%AAGo/"/>
     
     
-      <category term="Go" scheme="http://blog.diviner.site/tags/Go/"/>
+      <category term="Go" scheme="http://www.diviner.site/tags/Go/"/>
     
-      <category term="Go开发环境搭建" scheme="http://blog.diviner.site/tags/Go%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+      <category term="Go开发环境搭建" scheme="http://www.diviner.site/tags/Go%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     
-      <category term="VSCode配置Go插件" scheme="http://blog.diviner.site/tags/VSCode%E9%85%8D%E7%BD%AEGo%E6%8F%92%E4%BB%B6/"/>
+      <category term="VSCode配置Go插件" scheme="http://www.diviner.site/tags/VSCode%E9%85%8D%E7%BD%AEGo%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>ReactNative中使用Flexbox布局</title>
-    <link href="http://blog.diviner.site/archives/f0e0e28f.html"/>
-    <id>http://blog.diviner.site/archives/f0e0e28f.html</id>
+    <link href="http://www.diviner.site/archives/f0e0e28f.html"/>
+    <id>http://www.diviner.site/archives/f0e0e28f.html</id>
     <published>2020-01-17T06:03:10.000Z</published>
     <updated>2020-06-19T13:05:46.172Z</updated>
     
@@ -275,21 +275,21 @@
     
     </summary>
     
-      <category term="ReactNative" scheme="http://blog.diviner.site/categories/ReactNative/"/>
+      <category term="ReactNative" scheme="http://www.diviner.site/categories/ReactNative/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/ReactNative/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/ReactNative/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
     
-      <category term="ReactNative" scheme="http://blog.diviner.site/tags/ReactNative/"/>
+      <category term="ReactNative" scheme="http://www.diviner.site/tags/ReactNative/"/>
     
-      <category term="Flexbox布局" scheme="http://blog.diviner.site/tags/Flexbox%E5%B8%83%E5%B1%80/"/>
+      <category term="Flexbox布局" scheme="http://www.diviner.site/tags/Flexbox%E5%B8%83%E5%B1%80/"/>
     
   </entry>
   
   <entry>
     <title>ReactNative样式及宽度和高度</title>
-    <link href="http://blog.diviner.site/archives/5471cdfc.html"/>
-    <id>http://blog.diviner.site/archives/5471cdfc.html</id>
+    <link href="http://www.diviner.site/archives/5471cdfc.html"/>
+    <id>http://www.diviner.site/archives/5471cdfc.html</id>
     <published>2020-01-16T17:12:20.000Z</published>
     <updated>2020-06-19T13:05:46.173Z</updated>
     
@@ -301,19 +301,19 @@
     
     </summary>
     
-      <category term="ReactNative" scheme="http://blog.diviner.site/categories/ReactNative/"/>
+      <category term="ReactNative" scheme="http://www.diviner.site/categories/ReactNative/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/ReactNative/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/ReactNative/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
     
-      <category term="ReactNative" scheme="http://blog.diviner.site/tags/ReactNative/"/>
+      <category term="ReactNative" scheme="http://www.diviner.site/tags/ReactNative/"/>
     
   </entry>
   
   <entry>
     <title>ReactNative属性(props)和状态(state)</title>
-    <link href="http://blog.diviner.site/archives/deff105d.html"/>
-    <id>http://blog.diviner.site/archives/deff105d.html</id>
+    <link href="http://www.diviner.site/archives/deff105d.html"/>
+    <id>http://www.diviner.site/archives/deff105d.html</id>
     <published>2020-01-14T14:30:12.000Z</published>
     <updated>2020-06-19T13:05:46.172Z</updated>
     
@@ -325,19 +325,19 @@
     
     </summary>
     
-      <category term="ReactNative" scheme="http://blog.diviner.site/categories/ReactNative/"/>
+      <category term="ReactNative" scheme="http://www.diviner.site/categories/ReactNative/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/ReactNative/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/ReactNative/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
     
-      <category term="ReactNative" scheme="http://blog.diviner.site/tags/ReactNative/"/>
+      <category term="ReactNative" scheme="http://www.diviner.site/tags/ReactNative/"/>
     
   </entry>
   
   <entry>
     <title>ReactNative开发环境搭建</title>
-    <link href="http://blog.diviner.site/archives/21cd8dcf.html"/>
-    <id>http://blog.diviner.site/archives/21cd8dcf.html</id>
+    <link href="http://www.diviner.site/archives/21cd8dcf.html"/>
+    <id>http://www.diviner.site/archives/21cd8dcf.html</id>
     <published>2020-01-13T13:05:20.000Z</published>
     <updated>2020-06-19T13:05:46.173Z</updated>
     
@@ -351,21 +351,21 @@
     
     </summary>
     
-      <category term="ReactNative" scheme="http://blog.diviner.site/categories/ReactNative/"/>
+      <category term="ReactNative" scheme="http://www.diviner.site/categories/ReactNative/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/ReactNative/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/ReactNative/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
     
-      <category term="开发环境搭建" scheme="http://blog.diviner.site/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+      <category term="开发环境搭建" scheme="http://www.diviner.site/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     
-      <category term="ReactNative" scheme="http://blog.diviner.site/tags/ReactNative/"/>
+      <category term="ReactNative" scheme="http://www.diviner.site/tags/ReactNative/"/>
     
   </entry>
   
   <entry>
     <title>React[16.6]生命周期介绍</title>
-    <link href="http://blog.diviner.site/archives/1c199372.html"/>
-    <id>http://blog.diviner.site/archives/1c199372.html</id>
+    <link href="http://www.diviner.site/archives/1c199372.html"/>
+    <id>http://www.diviner.site/archives/1c199372.html</id>
     <published>2020-01-12T04:08:20.000Z</published>
     <updated>2020-06-19T13:05:46.171Z</updated>
     
@@ -381,21 +381,21 @@
     
     </summary>
     
-      <category term="React" scheme="http://blog.diviner.site/categories/React/"/>
+      <category term="React" scheme="http://www.diviner.site/categories/React/"/>
     
-      <category term="基础篇" scheme="http://blog.diviner.site/categories/React/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+      <category term="基础篇" scheme="http://www.diviner.site/categories/React/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
     
-      <category term="React" scheme="http://blog.diviner.site/tags/React/"/>
+      <category term="React" scheme="http://www.diviner.site/tags/React/"/>
     
-      <category term="React生命周期" scheme="http://blog.diviner.site/tags/React%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
+      <category term="React生命周期" scheme="http://www.diviner.site/tags/React%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
     
   </entry>
   
   <entry>
     <title>Deepin系统美化与开发环境搭建</title>
-    <link href="http://blog.diviner.site/archives/1de049be.html"/>
-    <id>http://blog.diviner.site/archives/1de049be.html</id>
+    <link href="http://www.diviner.site/archives/1de049be.html"/>
+    <id>http://www.diviner.site/archives/1de049be.html</id>
     <published>2020-01-11T04:08:20.000Z</published>
     <updated>2020-06-19T13:05:46.160Z</updated>
     
@@ -413,23 +413,23 @@
     
     </summary>
     
-      <category term="Linux" scheme="http://blog.diviner.site/categories/Linux/"/>
+      <category term="Linux" scheme="http://www.diviner.site/categories/Linux/"/>
     
-      <category term="工具篇" scheme="http://blog.diviner.site/categories/Linux/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
+      <category term="工具篇" scheme="http://www.diviner.site/categories/Linux/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
     
     
-      <category term="Deepin Linux" scheme="http://blog.diviner.site/tags/Deepin-Linux/"/>
+      <category term="Deepin Linux" scheme="http://www.diviner.site/tags/Deepin-Linux/"/>
     
-      <category term="系统美化" scheme="http://blog.diviner.site/tags/%E7%B3%BB%E7%BB%9F%E7%BE%8E%E5%8C%96/"/>
+      <category term="系统美化" scheme="http://www.diviner.site/tags/%E7%B3%BB%E7%BB%9F%E7%BE%8E%E5%8C%96/"/>
     
-      <category term="开发环境搭建" scheme="http://blog.diviner.site/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+      <category term="开发环境搭建" scheme="http://www.diviner.site/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>Navicat Premium(12.1.24) Mac版破解教程</title>
-    <link href="http://blog.diviner.site/archives/fa6f0a93.html"/>
-    <id>http://blog.diviner.site/archives/fa6f0a93.html</id>
+    <link href="http://www.diviner.site/archives/fa6f0a93.html"/>
+    <id>http://www.diviner.site/archives/fa6f0a93.html</id>
     <published>2020-01-10T14:08:20.000Z</published>
     <updated>2020-06-19T13:05:46.163Z</updated>
     
@@ -441,14 +441,14 @@
     
     </summary>
     
-      <category term="MacOS" scheme="http://blog.diviner.site/categories/MacOS/"/>
+      <category term="MacOS" scheme="http://www.diviner.site/categories/MacOS/"/>
     
-      <category term="工具篇" scheme="http://blog.diviner.site/categories/MacOS/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
+      <category term="工具篇" scheme="http://www.diviner.site/categories/MacOS/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
     
     
-      <category term="Navicat Premium" scheme="http://blog.diviner.site/tags/Navicat-Premium/"/>
+      <category term="Navicat Premium" scheme="http://www.diviner.site/tags/Navicat-Premium/"/>
     
-      <category term="破解" scheme="http://blog.diviner.site/tags/%E7%A0%B4%E8%A7%A3/"/>
+      <category term="破解" scheme="http://www.diviner.site/tags/%E7%A0%B4%E8%A7%A3/"/>
     
   </entry>
   
