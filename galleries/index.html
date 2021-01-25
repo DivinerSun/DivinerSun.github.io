@@ -112,24 +112,6 @@
     </li>
     
     <li class="hide-on-med-and-down">
-        <a href="/tags" class="waves-effect waves-light">
-            
-            <i class="fa fa-tags"></i>
-            
-            <span>标签</span>
-        </a>
-    </li>
-    
-    <li class="hide-on-med-and-down">
-        <a href="/categories" class="waves-effect waves-light">
-            
-            <i class="fa fa-bookmark"></i>
-            
-            <span>分类</span>
-        </a>
-    </li>
-    
-    <li class="hide-on-med-and-down">
         <a href="/AV" class="waves-effect waves-light">
             
             <i class="fa fa-music"></i>
@@ -210,40 +192,36 @@
       <li class="hide-on-med-and-down nav-item" >
 
         
-            <a href="/archives" class="waves-effect waves-light">
-              
-                <i class="fa fa-archive"></i>
-              
-              <span>归档</span>
-            </a>
+              <a href="/archives" class="waves-effect waves-light">
+                
+                  <i class="fa fa-archive"></i>
+                
+                <span>归档</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+              </a>
 
-            
-      </li>
-    
-      <li class="hide-on-med-and-down nav-item" >
-
-        
-            <a href="/tags" class="waves-effect waves-light">
+            <ul class="sub-nav menus_item_child ">
               
-                <i class="fa fa-tags"></i>
+                <li> 
+                  <a href="/tags" >
+                    
+                      <i class="fa fa-tags" style="margin-top: -20px;"></i>
+                    
+                    <span>标签</span>
+                  </a>
+                </li>
               
-              <span>标签</span>
-            </a>
-
-            
-      </li>
-    
-      <li class="hide-on-med-and-down nav-item" >
-
-        
-            <a href="/categories" class="waves-effect waves-light">
-              
-                <i class="fa fa-bookmark"></i>
-              
-              <span>分类</span>
-            </a>
-
-            
+                <li> 
+                  <a href="/categories" >
+                    
+                      <i class="fa fa-bookmark" style="margin-top: -20px;"></i>
+                    
+                    <span>分类</span>
+                  </a>
+                </li>
+               
+            </ul>
+          
       </li>
     
       <li class="hide-on-med-and-down nav-item" >
@@ -370,24 +348,6 @@
         </li>
         
         <li>
-            <a href="/tags" class="waves-effect waves-light">
-                
-                <i class="fa fa-fw fa-tags"></i>
-                
-                标签
-            </a>
-        </li>
-        
-        <li>
-            <a href="/categories" class="waves-effect waves-light">
-                
-                <i class="fa fa-fw fa-bookmark"></i>
-                
-                分类
-            </a>
-        </li>
-        
-        <li>
             <a href="/AV" class="waves-effect waves-light">
                 
                 <i class="fa fa-fw fa-music"></i>
@@ -469,34 +429,34 @@
         
         <li class="m-nav-item">
                 
-                    <a href="/archives" class="waves-effect waves-light">
-                        
-                        <i class="fa fa-fw fa-archive"></i>
-                        
-                        归档
+                    <a href="javascript:;">
+                            
+                            <i class="fa fa-fw fa-archive"></i>
+                            
+                            归档
+                            <span class="m-icon"><i class="fa fa-chevron-right"></i></span>
                     </a>
-              
-            </li>
-        
-        <li class="m-nav-item">
-                
-                    <a href="/tags" class="waves-effect waves-light">
-                        
-                        <i class="fa fa-fw fa-tags"></i>
-                        
-                        标签
-                    </a>
-              
-            </li>
-        
-        <li class="m-nav-item">
-                
-                    <a href="/categories" class="waves-effect waves-light">
-                        
-                        <i class="fa fa-fw fa-bookmark"></i>
-                        
-                        分类
-                    </a>
+                <ul>
+                  
+                    <li> 
+                      <a href="/tags" >
+                           
+                            <i class="fa fa-tags" style="left: 18px; position: absolute;"></i>
+                       
+                       <span>标签</span>
+                      </a>
+                    </li>
+                  
+                    <li> 
+                      <a href="/categories" >
+                           
+                            <i class="fa fa-bookmark" style="left: 18px; position: absolute;"></i>
+                       
+                       <span>分类</span>
+                      </a>
+                    </li>
+                   
+                </ul>
               
             </li>
         
@@ -693,18 +653,6 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                     </div>
                     <p class="gallery-name">
                         背景图片
-                    </p>
-                </a>
-            </div>
-            
-            
-            <div class="col s6 m4 l4 xl3 gallery-box">
-                <a href="./我们の爱" class="gallery-item" data-aos="zoom-in-up">
-                    <div class="gallery-cover-box" style="background-image: url(/medias/galleries/love/love_000.jpg)">
-                        <!--<img src="http://puxxml5fz.bkt.clouddn.com//medias/galleries/love/love_000.jpg" alt="img" class="gallery-cover-img">-->
-                    </div>
-                    <p class="gallery-name">
-                        我们の爱
                     </p>
                 </a>
             </div>
@@ -930,10 +878,6 @@ $(function () {
         </script>
 
         <!-- 鼠标点击烟花爆炸效果  洪卫 shw2018 add 2019.09.09 -->
-        
-            <canvas class="fireworks" style="position: fixed; left: 0; top: 0; z-index: 1; pointer-events: none;"></canvas>
-            <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
-            <script type="text/javascript" src="/js/fireworks.js"></script>
         
 
         <!-- 背景雪花飘落特效洪卫 shw2018 add 2019.09.10 -->
