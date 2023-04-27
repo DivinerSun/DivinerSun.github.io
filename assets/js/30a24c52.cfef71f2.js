@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiviner_sun=self.webpackChunkdiviner_sun||[]).push([[453],{4762:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/blog/tags/hello","allTagsPath":"/blog/tags","count":2}')}}]);
