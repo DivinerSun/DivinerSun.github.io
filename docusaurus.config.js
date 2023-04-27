@@ -16,8 +16,8 @@ const config = {
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
-    defaultLocale: "zh-Hans",
-    locales: ["zh-Hans", "en"],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
@@ -26,11 +26,11 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "",
+          editUrl: "https://github.com/facebook/docusaurus",
         },
         blog: {
           showReadingTime: true,
-          editUrl: "",
+          editUrl: "https://github.com/facebook/docusaurus",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
